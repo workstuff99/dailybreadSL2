@@ -1,0 +1,14 @@
+title: The Word of God
+description: Scripture, Daily Word, and Teachings
+theme: minima
+markdown: kramdown
+
+collections:
+  daily:
+    output: true
+    permalink: /daily/:name/
+
+header_pages:
+  - daily.md
+  - sermons.md
+  - prayer.md
